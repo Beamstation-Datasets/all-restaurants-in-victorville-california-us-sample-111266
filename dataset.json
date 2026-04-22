@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Victorville, California with a population of over 134k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Victorville, California, US",
-  "export_job_id": "a1d6332e-0a61-4d9f-ab64-091442fd2e9a",
+  "export_job_id": "bb5d6314-8efa-40fc-b297-2a77efe10b42",
   "github_org": "Beamstation-Datasets",
   "id_short": 111266,
   "location_name": "Victorville",
   "location_type": "city",
   "repo_name": "all-restaurants-in-victorville-california-us-sample-111266",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/111266/beamstation_111266_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.97,
+  "sample_pct": 10.0,
   "sample_records": 29,
-  "sample_sha256": "6a4eea9c26f4a4b603aac852c94d8383f763f36da49699d03adffe2ca8a8c6a5",
-  "sample_size_bytes": 98150,
-  "total_records": 291,
-  "updated_at": "2026-04-14T20:39:15.236658+00:00"
+  "sample_sha256": "a2fbb0efac6c599b152c5c80272725c4b1fa6ff90962076ff0ce9bf3deeaa35e",
+  "sample_size_bytes": 110177,
+  "total_records": 290,
+  "updated_at": "2026-04-21T22:57:19.937580+00:00"
 }
