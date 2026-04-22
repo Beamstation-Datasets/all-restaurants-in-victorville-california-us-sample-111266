@@ -9,9 +9,9 @@
 | Dataset ID | `111266` |
 | Location | Victorville |
 | Category | Restaurants |
-| Full dataset size | 291 records |
-| Free sample size | 29 records (9.97%) |
-| Last export | 2026-04-14T20:39:15.236658+00:00 |
+| Full dataset size | 290 records |
+| Free sample size | 29 records (10.0%) |
+| Last export | 2026-04-21T22:57:19.937580+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-victorville-california-us-sample-111266/releases/download/sample-latest/beamstation_111266_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
