@@ -1,6 +1,6 @@
 # All Restaurants in Victorville, California, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `111266` |
 | Location | Victorville |
 | Category | Restaurants |
-| Full dataset size | 290 records |
-| Free sample size | 29 records (10.0%) |
-| Last export | 2026-04-21T22:57:19.937580+00:00 |
+| Full dataset size | 288 records |
+| Free sample size | 28 records (9.72%) |
+| Last export | 2026-04-29T02:02:36.350210+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-victorville-california-us-sample-111266/releases/download/sample-latest/beamstation_111266_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
