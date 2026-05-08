@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a0769fb1-820a-4614-bce9-0f138cb1894b",
+  "export_job_id": "b72a15b6-894d-4882-88f3-d454b9e9ab88",
   "id_short": 111266,
-  "published_at": "2026-04-29T07:19:38Z",
+  "published_at": "2026-05-08T19:04:06Z",
   "repo_name": "all-restaurants-in-victorville-california-us-sample-111266",
   "sample_asset_name": "beamstation_111266_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/111266/beamstation_111266_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "577db971cef821b2dcae8ed17493299ce68e1dde9852f8e62df20da2849cc262",
-  "sample_size_bytes": 104790,
-  "total_records": 288
+  "sample_records": 31,
+  "sample_sha256": "dafe0b438fddb2270c802436daf347694e19b305dac4618715417d7b2c28c585",
+  "sample_size_bytes": 137226,
+  "total_records": 312
 }
